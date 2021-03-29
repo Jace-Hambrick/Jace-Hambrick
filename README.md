@@ -7,7 +7,7 @@
   <br>
   <samp>-Lambda School Student nearing graduation -- Making data visualizations in my sleep -
   <br>
-  - Slurping ramen while playing co-op games</samp>
+  - Slurping ramen while playing co-op games-</samp>
   <br>
   <br>
   <br>
