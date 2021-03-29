@@ -4,6 +4,7 @@
   <br>
   <samp>Hello there. I'm <a href="https://www.linkedin.com/in/hambrick-jace/">Jace</a>.<br> I'm a Data Scientist from Oregon in the United States with a focus on interactive visualizations.<br><br>#python, #SQL, #data_visuals</samp>
   <br>
+  <br>
   <samp>Lambda School Student nearing graduation
   -- Making data visualizations in my sleep
     -- Slurping ramen while playing co-op games</samp>
